@@ -12,8 +12,9 @@ npm install
 ```
 
 ## Run the example
-
+```
 node src/example/main.js
+```
 
 ## Output
 
