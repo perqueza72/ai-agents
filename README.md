@@ -38,8 +38,3 @@ Winner Smith
 ```
   
   As we still having the -1 in the problem matrix, we assume that agent could not solve the given problem.
-  
-  Now, try it yoursel!!!!
-#� �a�i�-�a�g�e�n�t�s�
-�
-�
